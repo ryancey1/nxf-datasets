@@ -1,5 +1,0 @@
-group,sample,replicate,fastq_1,fastq_2
-control,OSMOTIC_STRESS_T0,1,https://raw.githubusercontent.com/ryancey1/nxf-datasets/nxf-atacseq/testdata-minimal/SRR1822153_1.fastq.gz,https://raw.githubusercontent.com/ryancey1/nxf-datasets/nxf-atacseq/testdata-minimal/SRR1822153_2.fastq.gz
-control,OSMOTIC_STRESS_T0,2,https://raw.githubusercontent.com/ryancey1/nxf-datasets/nxf-atacseq/testdata-minimal/SRR1822154_1.fastq.gz,https://raw.githubusercontent.com/ryancey1/nxf-datasets/nxf-atacseq/testdata-minimal/SRR1822154_2.fastq.gz
-treat1,OSMOTIC_STRESS_T15,1,https://raw.githubusercontent.com/ryancey1/nxf-datasets/nxf-atacseq/testdata-minimal/SRR1822157_1.fastq.gz,https://raw.githubusercontent.com/ryancey1/nxf-datasets/nxf-atacseq/testdata-minimal/SRR1822157_2.fastq.gz
-treat1,OSMOTIC_STRESS_T15,2,https://raw.githubusercontent.com/ryancey1/nxf-datasets/nxf-atacseq/testdata-minimal/SRR1822158_1.fastq.gz,https://raw.githubusercontent.com/ryancey1/nxf-datasets/nxf-atacseq/testdata-minimal/SRR1822158_2.fastq.gz

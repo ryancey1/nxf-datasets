@@ -1,5 +1,5 @@
 group,id,bam
-OSMOTIC_STRESS_T0-OSMOTIC_STRESS_T15,OSMOTIC_STRESS_T0,https://github.com/ryancey1/nxf-datasets/blob/54f41d0d1b4d905abd02276393a2f91667568bff/testdata/OSMOTIC_STRESS_T0_R1.mergeLib.filt.sorted.bam
-OSMOTIC_STRESS_T0-OSMOTIC_STRESS_T15,OSMOTIC_STRESS_T0,https://github.com/ryancey1/nxf-datasets/blob/54f41d0d1b4d905abd02276393a2f91667568bff/testdata/OSMOTIC_STRESS_T0_R2.mergeLib.filt.sorted.bam
-OSMOTIC_STRESS_T0-OSMOTIC_STRESS_T15,OSMOTIC_STRESS_T15,https://github.com/ryancey1/nxf-datasets/blob/54f41d0d1b4d905abd02276393a2f91667568bff/testdata/OSMOTIC_STRESS_T15_R1.mergeLib.filt.sorted.bam
-OSMOTIC_STRESS_T0-OSMOTIC_STRESS_T15,OSMOTIC_STRESS_T15,https://github.com/ryancey1/nxf-datasets/blob/54f41d0d1b4d905abd02276393a2f91667568bff/testdata/OSMOTIC_STRESS_T15_R2.mergeLib.filt.sorted.bam
+OSMOTIC_STRESS_T0-OSMOTIC_STRESS_T15,OSMOTIC_STRESS_T0,https://raw.githubusercontent.com/ryancey1/nxf-datasets/nxf-atacseq/testdata/OSMOTIC_STRESS_T0_R1.mergeLib.filt.sorted.bam
+OSMOTIC_STRESS_T0-OSMOTIC_STRESS_T15,OSMOTIC_STRESS_T0,https://raw.githubusercontent.com/ryancey1/nxf-datasets/nxf-atacseq/testdata/OSMOTIC_STRESS_T0_R2.mergeLib.filt.sorted.bam
+OSMOTIC_STRESS_T0-OSMOTIC_STRESS_T15,OSMOTIC_STRESS_T15,https://raw.githubusercontent.com/ryancey1/nxf-datasets/nxf-atacseq/testdata/OSMOTIC_STRESS_T15_R1.mergeLib.filt.sorted.bam
+OSMOTIC_STRESS_T0-OSMOTIC_STRESS_T15,OSMOTIC_STRESS_T15,https://raw.githubusercontent.com/ryancey1/nxf-datasets/nxf-atacseq/testdata/OSMOTIC_STRESS_T15_R2.mergeLib.filt.sorted.bam

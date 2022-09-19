@@ -23,6 +23,8 @@ Schep AN, Buenrostro JD, Denny SK, Schwartz K, Sherlock G, Greenleaf WJ. Structu
 | GSM1621340	| SRR1822154	| Osmotic Stress Time 0 A rep2	|
 | GSM1621343	| SRR1822157	| Osmotic Stress Time 15 C rep1	|
 | GSM1621344	| SRR1822158	| Osmotic Stress Time 15 C rep2	|
+| GSM1621345  | SRR1822159  | Osmotic Stress Time 30 D rep1 |
+| GSM1621346  | SRR1822160  | Osmotic Stress Time 30 D rep2 |
 
 ### Sampling procedure
 

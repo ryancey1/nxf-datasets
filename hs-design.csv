@@ -1,9 +1,9 @@
 sample,replicate,fastq_1,fastq_2
 MDAMB231_siCTR,1,https://raw.githubusercontent.com/ryancey1/nxf-datasets/nxf-atacseq/testdata/SRR6310008_1.fastq.gz,https://raw.githubusercontent.com/ryancey1/nxf-datasets/nxf-atacseq/testdata/SRR6310008_2.fastq.gz
 MDAMB231_siCTR,2,https://raw.githubusercontent.com/ryancey1/nxf-datasets/nxf-atacseq/testdata/SRR6310010_1.fastq.gz,https://raw.githubusercontent.com/ryancey1/nxf-datasets/nxf-atacseq/testdata/SRR6310010_2.fastq.gz
-MDAMB231_siRIBG1B,1,https://raw.githubusercontent.com/ryancey1/nxf-datasets/nxf-atacseq/testdata/SRR6310009_1.fastq.gz,https://raw.githubusercontent.com/ryancey1/nxf-datasets/nxf-atacseq/testdata/SRR6310009_2.fastq.gz
-MDAMB231_siRIBG1B,2,https://raw.githubusercontent.com/ryancey1/nxf-datasets/nxf-atacseq/testdata/SRR6310011_1.fastq.gz,https://raw.githubusercontent.com/ryancey1/nxf-datasets/nxf-atacseq/testdata/SRR6310011_2.fastq.gz
+MDAMB231_siRING1B,1,https://raw.githubusercontent.com/ryancey1/nxf-datasets/nxf-atacseq/testdata/SRR6310009_1.fastq.gz,https://raw.githubusercontent.com/ryancey1/nxf-datasets/nxf-atacseq/testdata/SRR6310009_2.fastq.gz
+MDAMB231_siRING1B,2,https://raw.githubusercontent.com/ryancey1/nxf-datasets/nxf-atacseq/testdata/SRR6310011_1.fastq.gz,https://raw.githubusercontent.com/ryancey1/nxf-datasets/nxf-atacseq/testdata/SRR6310011_2.fastq.gz
 T47D_siCTR,1,https://raw.githubusercontent.com/ryancey1/nxf-datasets/nxf-atacseq/testdata/SRR6310026_1.fastq.gz,https://raw.githubusercontent.com/ryancey1/nxf-datasets/nxf-atacseq/testdata/SRR6310026_2.fastq.gz
 T47D_siCTR,2,https://raw.githubusercontent.com/ryancey1/nxf-datasets/nxf-atacseq/testdata/SRR6310028_1.fastq.gz,https://raw.githubusercontent.com/ryancey1/nxf-datasets/nxf-atacseq/testdata/SRR6310028_2.fastq.gz
-T47D_siRIBG1B,1,https://raw.githubusercontent.com/ryancey1/nxf-datasets/nxf-atacseq/testdata/SRR6310027_1.fastq.gz,https://raw.githubusercontent.com/ryancey1/nxf-datasets/nxf-atacseq/testdata/SRR6310027_2.fastq.gz
-T47D_siRIBG1B,2,https://raw.githubusercontent.com/ryancey1/nxf-datasets/nxf-atacseq/testdata/SRR6310029_1.fastq.gz,https://raw.githubusercontent.com/ryancey1/nxf-datasets/nxf-atacseq/testdata/SRR6310029_2.fastq.gz
+T47D_siRING1B,1,https://raw.githubusercontent.com/ryancey1/nxf-datasets/nxf-atacseq/testdata/SRR6310027_1.fastq.gz,https://raw.githubusercontent.com/ryancey1/nxf-datasets/nxf-atacseq/testdata/SRR6310027_2.fastq.gz
+T47D_siRING1B,2,https://raw.githubusercontent.com/ryancey1/nxf-datasets/nxf-atacseq/testdata/SRR6310029_1.fastq.gz,https://raw.githubusercontent.com/ryancey1/nxf-datasets/nxf-atacseq/testdata/SRR6310029_2.fastq.gz
